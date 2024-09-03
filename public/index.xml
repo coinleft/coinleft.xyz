@@ -11,63 +11,24 @@
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Sep 2024 01:00:26 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 03:27:01 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post-copy-2/</link>
-      <pubDate>Tue, 03 Sep 2024 01:00:26 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post-copy-2/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <title>The Wonders of Markdown</title>
+      <link>http://localhost:1313/posts/the-wonders-of-markdown/</link>
+      <pubDate>Tue, 03 Sep 2024 03:27:01 +0800</pubDate>
+      <guid>http://localhost:1313/posts/the-wonders-of-markdown/</guid>
+      <description>Markdown is a lightweight markup language with plain-text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and even for generating static websites.
+What You Can Do with Markdown Markdown is incredibly versatile. Here are some of the things you can do with it:</description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post-copy-3/</link>
-      <pubDate>Tue, 03 Sep 2024 01:00:26 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post-copy-3/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post-copy-4/</link>
-      <pubDate>Tue, 03 Sep 2024 01:00:26 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post-copy-4/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post-copy-5/</link>
-      <pubDate>Tue, 03 Sep 2024 01:00:26 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post-copy-5/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post-copy-6/</link>
-      <pubDate>Tue, 03 Sep 2024 01:00:26 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post-copy-6/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post-copy/</link>
-      <pubDate>Tue, 03 Sep 2024 01:00:26 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post-copy/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 03 Sep 2024 01:00:26 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <title>Solidity Syntax Overview</title>
+      <link>http://localhost:1313/posts/soliditysyntaxoverview/</link>
+      <pubDate>Tue, 03 Sep 2024 02:59:26 +0800</pubDate>
+      <guid>http://localhost:1313/posts/soliditysyntaxoverview/</guid>
+      <description>Solidity is a contract-oriented, high-level programming language for implementing smart contracts on Ethereum. Here&amp;rsquo;s an overview of its syntax and features, demonstrated with code examples.
+Contract Definition In Solidity, a contract is the fundamental building block. It is similar to a class in object-oriented programming.
+// SPDX-License-Identifier: MIT pragma solidity ^0.8.0; contract SimpleStorage { uint256 public storedData; function set(uint256 x) public { storedData = x; } function get() public view returns (uint256) { return storedData; } } Key Points: pragma solidity ^0.</description>
     </item>
   </channel>
 </rss>
