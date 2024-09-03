@@ -58,10 +58,9 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    #enabled: true
     title: Coinleft
-    subtitle: "Software Engineer"
-    imageUrl: "https://x.com/coinleft/photo"
+    subtitle: "software engineer"
+    #imageUrl: "https://x.com/coinleft/photo"
     imageWidth: 120
     imageHeight: 120
     imageTitle: image

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Coinleft</title>
-    <link>https://coinleft.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Coinleft</description>
     <image>
       <title>Coinleft</title>
-      <url>https://coinleft.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://coinleft.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Sep 2024 03:27:01 +0800</lastBuildDate>
-    <atom:link href="https://coinleft.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Wonders of Markdown</title>
-      <link>https://coinleft.xyz/posts/the-wonders-of-markdown/</link>
+      <link>http://localhost:1313/posts/the-wonders-of-markdown/</link>
       <pubDate>Tue, 03 Sep 2024 03:27:01 +0800</pubDate>
-      <guid>https://coinleft.xyz/posts/the-wonders-of-markdown/</guid>
+      <guid>http://localhost:1313/posts/the-wonders-of-markdown/</guid>
       <description>Markdown is a lightweight markup language with plain-text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and even for generating static websites.
 What You Can Do with Markdown Markdown is incredibly versatile. Here are some of the things you can do with it:</description>
     </item>
     <item>
       <title>Solidity Syntax Overview</title>
-      <link>https://coinleft.xyz/posts/soliditysyntaxoverview/</link>
+      <link>http://localhost:1313/posts/soliditysyntaxoverview/</link>
       <pubDate>Tue, 03 Sep 2024 02:59:26 +0800</pubDate>
-      <guid>https://coinleft.xyz/posts/soliditysyntaxoverview/</guid>
+      <guid>http://localhost:1313/posts/soliditysyntaxoverview/</guid>
       <description>Solidity is a contract-oriented, high-level programming language for implementing smart contracts on Ethereum. Here&amp;rsquo;s an overview of its syntax and features, demonstrated with code examples.
 Contract Definition In Solidity, a contract is the fundamental building block. It is similar to a class in object-oriented programming.
 // SPDX-License-Identifier: MIT pragma solidity ^0.8.0; contract SimpleStorage { uint256 public storedData; function set(uint256 x) public { storedData = x; } function get() public view returns (uint256) { return storedData; } } Key Points: pragma solidity ^0.</description>
