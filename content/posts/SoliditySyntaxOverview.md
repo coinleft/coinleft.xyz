@@ -2,7 +2,7 @@
 title: 'Solidity Syntax Overview'
 date: 2024-09-03T02:59:26+08:00
 tags: ["solidity"]
-draft: true
+draft: false
 ---
 
 Solidity is a contract-oriented, high-level programming language for implementing smart contracts on Ethereum. Here's an overview of its syntax and features, demonstrated with code examples.

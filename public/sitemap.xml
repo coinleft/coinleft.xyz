@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://coinleft.xyz/</loc>
     <lastmod>2024-09-03T03:27:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://coinleft.xyz/tags/markdown/</loc>
     <lastmod>2024-09-03T03:27:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://coinleft.xyz/posts/</loc>
     <lastmod>2024-09-03T03:27:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://coinleft.xyz/tags/</loc>
     <lastmod>2024-09-03T03:27:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/the-wonders-of-markdown/</loc>
+    <loc>https://coinleft.xyz/posts/the-wonders-of-markdown/</loc>
     <lastmod>2024-09-03T03:27:01+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/solidity/</loc>
+    <loc>https://coinleft.xyz/tags/solidity/</loc>
     <lastmod>2024-09-03T02:59:26+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/soliditysyntaxoverview/</loc>
+    <loc>https://coinleft.xyz/posts/soliditysyntaxoverview/</loc>
     <lastmod>2024-09-03T02:59:26+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://coinleft.xyz/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://coinleft.xyz/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://coinleft.xyz/search/</loc>
   </url>
 </urlset>
