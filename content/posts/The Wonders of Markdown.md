@@ -2,7 +2,6 @@
 title: 'The Wonders of Markdown'
 date: 2024-09-03T03:27:01+08:00
 tags: ["markdown"]
-draft: false
 ---
 
 Markdown is a **lightweight markup language** with plain-text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and even for generating static websites.
